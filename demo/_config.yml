@@ -1,7 +1,7 @@
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
-baseurl: /hacked-jekyll
-url: https://piazzai.github.io
+title: Arizona Meshtastic
+description: Arizona Meshtastic Community
+baseurl: /
+url: https://azmsh.dev
 
 theme: hacked-jekyll
 

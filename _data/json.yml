@@ -1,1 +1,7 @@
-# empty
+- key: Project
+  value: azmsh
+- key: Description
+  value:
+    - Hello!
+    - This is a placeholder site for Arizona's unofficial Meshtastic community!
+  typed: true
